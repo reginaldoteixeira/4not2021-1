@@ -46,3 +46,4 @@ console.log(fruta2)
 let [, f2, f3] = vet2
 console.log(f2)
 console.log(f3)
+
