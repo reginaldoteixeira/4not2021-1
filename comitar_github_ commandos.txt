@@ -1,0 +1,4 @@
+// comando para comittar no github
+// 1º - git add .
+// 2º - git commit -m "(16/02) Continuação de revisão de JS"
+// 3º - git push
